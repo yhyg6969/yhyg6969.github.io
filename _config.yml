@@ -28,8 +28,11 @@ github_username:  yhyg6969
 
 # Build settings
 theme: jekyll-theme-hydeout
+remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
+
+paginate: 5
 
 # Exclude from processing.
 # The following items will not be processed, by default.
