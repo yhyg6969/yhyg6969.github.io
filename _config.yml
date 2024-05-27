@@ -27,7 +27,6 @@ url: "https://yhyg6969.github.io" # the base hostname & protocol for your site, 
 github_username:  yhyg6969
 
 # Build settings
-theme: hydeout
 remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
